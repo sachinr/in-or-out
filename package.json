@@ -9,10 +9,9 @@
   "author": "Mike Brevoort",
   "license": "MIT",
   "dependencies": {
-    "beepboop-slapp-presence-polyfill": "^1.1.1",
     "express": "^4.14.0",
-    "slapp": "^1.2.0",
-    "slapp-context-beepboop": "^1.0.0",
-    "slapp-convo-beepboop": "^1.0.0"
+    "jfs": "^0.2.6",
+    "request": "^2.74.0",
+    "slapp": "^1.2.0"
   }
 }
